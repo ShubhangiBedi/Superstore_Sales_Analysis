@@ -20,6 +20,17 @@ Source: Kaggle
 Features: Order details, customer info, product data, and geographical attributes
 Cleaning: No missing values, irrelevant data removed, and 1 duplicate dropped
 
+KPIs:
+• Over the past four years, Superstore generated $14.92 million in revenue but only had a gross profit of $1.52 million. The company's average discount stood at 4.97%, suggesting that the discounting strategy might have influenced the profit margin. A detailed breakdown of the profit margin within the discount category will be explored later in the Financial Analysis dashboard.
+
+Sales by Region and state:
+• The West region boasted the highest revenue, with sales amounting to 3.6 million, followed by the Ontario region with sales of $3.05 million. Therefore, the company should focus on marketing efforts and optimizing inventory in those regions to further increase sales.
+
+Sales vs. Profit by Category and Sub-Category:
+• The Office machine sub-category stood out with impressive sales and profit figures. 
+
+
+
 
 
 
